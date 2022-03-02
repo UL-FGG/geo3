@@ -1,2 +1,3 @@
-# geo3
-Geoinformatika III
+# Geoinformatika III
+
+GIG MSc Geoinformatika III
