@@ -1,0 +1,1 @@
+Javljam se v Git.
